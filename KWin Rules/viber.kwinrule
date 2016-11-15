@@ -1,0 +1,9 @@
+[Application settings for viberpc]
+Description=Application settings for viberpc
+clientmachine=localhost
+clientmachinematch=0
+decocolor=Viber
+decocolorrule=2
+wmclass=viber viberpc
+wmclasscomplete=true
+wmclassmatch=1

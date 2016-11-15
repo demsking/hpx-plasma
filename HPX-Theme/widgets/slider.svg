@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3025"
+   version="1.1"
+   height="82.856003"
+   width="119.13"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="slider.svg"
+   viewBox="0 0 119.13 82.856003">
+  <defs
+     id="defs43">
+    <linearGradient
+       id="groove_highlight_center-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d0d0d0;stop-opacity:1;"
+         offset="0"
+         id="stop7016" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5794"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop5792" />
+    </linearGradient>
+    <linearGradient
+       id="groove_highlight_border-6"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#131313;stop-opacity:1;"
+         offset="0"
+         id="stop5786" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4318"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#12bcfa;stop-opacity:1;"
+         offset="0"
+         id="stop4316" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4312"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#12bcfa;stop-opacity:1;"
+         offset="0"
+         id="stop4310" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4306"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5dbc33;stop-opacity:1;"
+         offset="0"
+         id="stop4304" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4428">
+      <g
+         inkscape:label="Clip"
+         id="use4430">
+        <rect
+           style="opacity:1;fill:#ebc9c9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.21407938;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
+           id="rect4479"
+           width="3"
+           height="3"
+           x="99.111526"
+           y="4.1344361" />
+        <rect
+           y="7.1344361"
+           x="99.111526"
+           height="3"
+           width="3"
+           id="rect4481"
+           style="opacity:1;fill:#ebc9c9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.21407938;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843" />
+        <rect
+           style="opacity:1;fill:#ebc9c9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.21407938;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
+           id="rect4483"
+           width="3"
+           height="3"
+           x="99.111526"
+           y="10.134436" />
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#groove_highlight_center-0"
+       id="linearGradient7020"
+       x1="80.755049"
+       y1="16.331479"
+       x2="86.755049"
+       y2="16.331479"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5.6730501,-3.3977626)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5794"
+       id="linearGradient7024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-30.58597,-1.3060224)"
+       x1="80.755051"
+       y1="16.331478"
+       x2="86.755051"
+       y2="16.331478" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7042">
+      <circle
+         style="opacity:1;fill:#1d1d1d;fill-opacity:0.99498746;fill-rule:evenodd;stroke:none;stroke-width:5.72510672;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843"
+         id="circle7044"
+         cx="54.003685"
+         cy="74.424263"
+         r="6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#666666"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     inkscape:document-units="px"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="9.743223"
+     inkscape:cx="72.203135"
+     inkscape:cy="39.955978"
+     inkscape:current-layer="svg3025"
+     inkscape:snap-to-guides="false" />
+  <metadata
+     id="metadata3030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:url(#linearGradient7020);fill-opacity:1;stroke-width:2"
+     inkscape:connector-curvature="0"
+     d="M 81.081999,15.933716 V 9.9337164 h -6 v 5.9999996 z"
+     id="groove-highlight-center" />
+  <path
+     id="groove-center"
+     d="m 56.169079,18.025457 v -6 h -6 v 6 z"
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:url(#linearGradient7024);fill-opacity:1;stroke-width:2" />
+  <circle
+     style="opacity:1;fill:#2d2d2d;fill-opacity:1;fill-rule:evenodd;stroke:#d0d0d0;stroke-width:4.57788515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="horizontal-slider-handle"
+     cx="83.743904"
+     cy="43.531452"
+     r="6.7110572" />
+  <circle
+     cy="41.684013"
+     cx="58.290314"
+     id="vertical-slider-handle"
+     style="opacity:1;fill:#2d2d2d;fill-opacity:1;fill-rule:evenodd;stroke:#cfcfcf;stroke-width:4.578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="6.7110577" />
+</svg>

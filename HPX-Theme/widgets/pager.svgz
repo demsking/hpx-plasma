@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 16.000019 50" xmlns:dc="http://purl.org/dc/elements/1.1/" width="16" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="50" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="Active_Border-8" osb:paint="solid">
+   <stop id="stop4686" offset="0" stop-color="#fff" stop-opacity=".18824"/>
+  </linearGradient>
+  <linearGradient id="Normal_Border-8" osb:paint="solid">
+   <stop id="stop4594" offset="0" stop-opacity=".24706"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4590" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" y2="573.36" x2="339">
+   <stop id="stop4586" offset="0" stop-opacity=".17255"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4618" y1="585.5" gradientUnits="userSpaceOnUse" x1="328.49" gradientTransform="translate(1.6853 6.32)" y2="585.5" x2="336.49">
+   <stop id="stop4614" offset="0" stop-color="#fff" stop-opacity=".12549"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4622" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(1 0 0 .25 .0000051211 425.02)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4626" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(1 0 0 .25 .0000051211 435.02)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4630" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(1 0 0 .25 238.36 -483.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4634" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(1 0 0 .25 238.36 -473.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4638" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(.25 0 0 .25 494.61 -473.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4642" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(.25 0 0 .25 494.61 -483.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4646" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(.25 0 0 .25 484.61 -483.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4650" y1="573.36" gradientUnits="userSpaceOnUse" x1="331" gradientTransform="matrix(.25 0 0 .25 484.61 -473.34)" xlink:href="#Normal_Border-8" y2="573.36" x2="339"/>
+  <linearGradient id="linearGradient4690" y1="-339.17" gradientUnits="userSpaceOnUse" x1="587.82" xlink:href="#Active_Border-8" y2="-339.17" x2="595.82"/>
+  <linearGradient id="linearGradient4692" y1="586.82" gradientUnits="userSpaceOnUse" x1="338.17" xlink:href="#Active_Border-8" y2="586.82" x2="340.17"/>
+  <linearGradient id="linearGradient4694" y1="586.82" gradientUnits="userSpaceOnUse" x1="330.17" xlink:href="#Active_Border-8" y2="586.82" x2="338.17"/>
+  <linearGradient id="linearGradient4696" y1="586.82" gradientUnits="userSpaceOnUse" x1="328.17" xlink:href="#Active_Border-8" y2="586.82" x2="330.17"/>
+  <linearGradient id="linearGradient4698" y1="-329.17" gradientUnits="userSpaceOnUse" x1="587.82" xlink:href="#Active_Border-8" y2="-329.17" x2="595.82"/>
+  <linearGradient id="linearGradient4700" y1="596.82" gradientUnits="userSpaceOnUse" x1="328.17" xlink:href="#Active_Border-8" y2="596.82" x2="330.17"/>
+  <linearGradient id="linearGradient4702" y1="596.82" gradientUnits="userSpaceOnUse" x1="330.17" xlink:href="#Active_Border-8" y2="596.82" x2="338.17"/>
+  <linearGradient id="linearGradient4704" y1="596.82" gradientUnits="userSpaceOnUse" x1="338.17" xlink:href="#Active_Border-8" y2="596.82" x2="340.17"/>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-347 -559.36)">
+  <rect id="hint-tile-center" width="3" x="350.18" fill="#00f" y="562.76" height="3"/>
+  <rect id="normal-center" width="8" x="331" y="569.36" height="8" fill-rule="evenodd" fill="url(#linearGradient4590)"/>
+  <rect id="active-center" width="8" x="330.17" y="587.82" height="8" fill-rule="evenodd" fill="url(#linearGradient4618)"/>
+  <rect id="normal-top" width="8" x="331" y="567.36" height="2" fill-rule="evenodd" fill="url(#linearGradient4622)"/>
+  <rect id="normal-bottom" width="8" x="331" y="577.36" height="2" fill-rule="evenodd" fill="url(#linearGradient4626)"/>
+  <rect id="normal-right" width="8" transform="rotate(90)" x="569.36" y="-341" height="2" fill-rule="evenodd" fill="url(#linearGradient4630)"/>
+  <rect id="normal-left" transform="rotate(90)" width="8" x="569.36" y="-331" height="2" fill-rule="evenodd" fill="url(#linearGradient4634)"/>
+  <rect id="normal-bottomleft" width="2" transform="rotate(90)" x="577.36" y="-331" height="2" fill-rule="evenodd" fill="url(#linearGradient4638)"/>
+  <rect id="normal-bottomright" transform="rotate(90)" width="2" x="577.36" y="-341" height="2" fill-rule="evenodd" fill="url(#linearGradient4642)"/>
+  <rect id="normal-topright" width="2" transform="rotate(90)" x="567.36" y="-341" height="2" fill-rule="evenodd" fill="url(#linearGradient4646)"/>
+  <rect id="normal-topleft" transform="rotate(90)" width="2" x="567.36" y="-331" height="2" fill-rule="evenodd" fill="url(#linearGradient4650)"/>
+  <rect id="active-top" width="8" x="330.17" y="585.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4694)"/>
+  <rect id="active-bottom" width="8" x="330.17" y="595.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4702)"/>
+  <rect id="active-right" width="8" transform="rotate(90)" x="587.82" y="-340.17" height="2" fill-rule="evenodd" fill="url(#linearGradient4690)"/>
+  <rect id="active-left" transform="rotate(90)" width="8" x="587.82" y="-330.17" height="2" fill-rule="evenodd" fill="url(#linearGradient4698)"/>
+  <rect id="active-topleft" width="2" x="328.17" y="585.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4696)"/>
+  <rect id="active-topright" width="2" x="338.17" y="585.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4692)"/>
+  <rect id="active-bottomright" width="2" x="338.17" y="595.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4704)"/>
+  <rect id="active-bottomleft" width="2" x="328.17" y="595.82" height="2" fill-rule="evenodd" fill="url(#linearGradient4700)"/>
+ </g>
+</svg>

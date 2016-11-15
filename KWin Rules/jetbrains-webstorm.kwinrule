@@ -1,0 +1,9 @@
+[Application settings for jetbrains-webstorm]
+Description=Application settings for jetbrains-webstorm
+clientmachine=localhost
+clientmachinematch=0
+decocolor=IntelliJ
+decocolorrule=2
+wmclass=sun-awt-x11-xframepeer jetbrains-webstorm
+wmclasscomplete=true
+wmclassmatch=1

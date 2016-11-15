@@ -1,0 +1,9 @@
+[Application settings for vivaldi-stable]
+Description=Application settings for vivaldi-stable
+clientmachine=localhost
+clientmachinematch=0
+decocolor=Vivaldi
+decocolorrule=2
+wmclass=crx_mpognobbkildjkofajifpdfhcoklimli vivaldi-stable
+wmclasscomplete=true
+wmclassmatch=1

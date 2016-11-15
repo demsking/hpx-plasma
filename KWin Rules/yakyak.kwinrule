@@ -1,0 +1,9 @@
+[Application settings for yakyak]
+Description=Application settings for yakyak
+clientmachine=localhost
+clientmachinematch=0
+decocolor=YakYak
+decocolorrule=2
+wmclass=yakyak
+wmclasscomplete=false
+wmclassmatch=1

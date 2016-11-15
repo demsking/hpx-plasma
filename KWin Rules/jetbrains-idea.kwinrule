@@ -1,0 +1,9 @@
+[Application settings for jetbrains-idea]
+Description=Application settings for jetbrains-idea
+clientmachine=localhost.localdomain
+clientmachinematch=0
+decocolor=IntelliJ
+decocolorrule=2
+wmclass=sun-awt-x11-xframepeer jetbrains-idea
+wmclasscomplete=true
+wmclassmatch=1

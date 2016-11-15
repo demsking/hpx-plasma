@@ -1,0 +1,9 @@
+[Application settings for qtcreator]
+Description=Application settings for qtcreator
+clientmachine=localhost
+clientmachinematch=0
+decocolor=QtCreator
+decocolorrule=2
+wmclass=qtcreator
+wmclasscomplete=false
+wmclassmatch=1

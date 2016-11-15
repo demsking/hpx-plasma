@@ -1,0 +1,9 @@
+[Application settings for telegram]
+Description=Application settings for telegram
+clientmachine=localhost
+clientmachinematch=0
+decocolor=Telegram
+decocolorrule=2
+wmclass=telegram
+wmclasscomplete=false
+wmclassmatch=1

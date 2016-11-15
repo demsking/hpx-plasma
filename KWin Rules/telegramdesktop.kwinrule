@@ -1,0 +1,13 @@
+[Application settings for telegramdesktop]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+clientmachinematch=0
+decocolor=Telegram
+decocolorrule=2
+position=1450,326
+positionrule=4
+size=380,691
+sizerule=4
+wmclass=telegram telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1

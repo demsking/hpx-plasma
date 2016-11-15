@@ -1,0 +1,9 @@
+[Application settings for wps]
+Description=Application settings for wps
+clientmachine=localhost
+clientmachinematch=0
+decocolor=WPS
+decocolorrule=2
+wmclass=wps
+wmclasscomplete=false
+wmclassmatch=1

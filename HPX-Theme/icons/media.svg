@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7229" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" height="22" width="22" xmlns:cc="http://creativecommons.org/ns#">
+ <defs id="defs7231">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <metadata id="metadata7234">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-214.54 -404.51)">
+  <g id="media-playback-pause" transform="matrix(1.5 0 0 1.5 209.04 -1146.5)">
+   <rect id="rect3003-0" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6667"/>
+   <path id="rect3287-9" class="ColorScheme-Text" fill="#fff" d="m11.667 1039.4h1.3334v4.0002h-1.3334zm-2.6668 0h1.3334v4.0002h-1.3334zm1.9998-3.4c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335zm0 0.6667c2.5854 0 4.6668 2.0813 4.6668 4.6668s-2.0814 4.6668-4.6668 4.6668-4.6668-2.0813-4.6668-4.6668 2.0814-4.6668 4.6668-4.6668z"/>
+  </g>
+  <g id="media-playback-start" transform="matrix(1.5 0 0 1.5 233.04 -1146.5)">
+   <rect id="rect3003-1" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.667"/>
+   <path id="path3357-8" class="ColorScheme-Text" fill="#fff" d="m9.6665 1043.4 2.6669-2.0002-2.6669-2.0002zm1.3335-7.4c-2.955 0-5.3339 2.3789-5.3339 5.3339s2.3789 5.3339 5.3339 5.3339 5.3339-2.3789 5.3339-5.3339-2.3789-5.3339-5.3339-5.3339zm0 0.6668c2.5856 0 4.6671 2.0815 4.6671 4.6671s-2.0815 4.6671-4.6671 4.6671-4.6671-2.0815-4.6671-4.6671 2.0815-4.6671 4.6671-4.6671z"/>
+  </g>
+  <g id="media-playback-stop" transform="matrix(1.5 0 0 1.5 257.03 -1146.5)">
+   <rect id="rect3003-3" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6673"/>
+   <path id="rect3274-5" class="ColorScheme-Text" fill="#fff" d="m8.9999 1039.4h4.0002v4.0002h-4.0002zm2.0001-3.4c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335zm0 0.6667c2.5854 0 4.6668 2.0813 4.6668 4.6668s-2.0814 4.6668-4.6668 4.6668-4.6668-2.0813-4.6668-4.6668 2.0814-4.6668 4.6668-4.6668z"/>
+  </g>
+  <g id="layer1-321" transform="matrix(1.5 0 0 1.5 281.03 -1146.5)">
+   <rect id="rect3003-03" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6676"/>
+   <path id="rect3356-7" class="ColorScheme-Text" fill="#fff" d="m11 1036c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335zm0 0.6667c2.5854 0 4.6668 2.0813 4.6668 4.6668s-2.0814 4.6668-4.6668 4.6668-4.6668-2.0813-4.6668-4.6668 2.0814-4.6668 4.6668-4.6668z"/>
+   <rect id="rect3274-0" width="4.8" y="1039" x="8.6" height="4.8" ry="2.4" fill="#c85661"/>
+  </g>
+  <g id="media-seek-backward" transform="matrix(1.5 0 0 1.5 305.03 -1146.5)">
+   <rect id="rect3003-07" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6679"/>
+   <path id="path4148-6" class="ColorScheme-Text" fill="#fff" d="m11 1043.4-2.6674-2.0006 2.6674-2.0006zm2.6674 0-2.6674-2.0006 2.6674-2.0006zm-2.667-7.4c-2.9555 0-5.3348 2.3793-5.3348 5.3348s2.3793 5.3348 5.3348 5.3348 5.3348-2.3793 5.3348-5.3348-2.3793-5.3348-5.3348-5.3348zm0 0.6669c2.586 0 4.668 2.0818 4.668 4.6679s-2.0819 4.6679-4.668 4.6679c-2.586 0-4.668-2.0818-4.668-4.6679s2.0819-4.6679 4.668-4.6679z"/>
+  </g>
+  <g id="layer1-39" transform="matrix(1.5 0 0 1.5 329.09 -1146.5)">
+   <rect id="rect3003-2" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.632"/>
+   <path id="path4148-8" class="ColorScheme-Text" fill="#fff" d="m11 1043.4 2.6668-2.0001-2.6668-2.0001zm-2.6668 0 2.6668-2.0001-2.6668-2.0001zm2.6668-7.4c2.9548 0 5.3335 2.3787 5.3335 5.3335s-2.3788 5.3335-5.3335 5.3335c-2.9548 0-5.3335-2.3787-5.3335-5.3335s2.3788-5.3335 5.3335-5.3335zm0 0.6667c-2.5854 0-4.6668 2.0813-4.6668 4.6668s2.0814 4.6668 4.6668 4.6668 4.6668-2.0813 4.6668-4.6668-2.0814-4.6668-4.6668-4.6668z"/>
+  </g>
+  <g id="media-skip-backward" transform="matrix(1.5 0 0 1.5 353.03 -1146.5)">
+   <rect id="rect3003-9" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6686"/>
+   <path id="rect3356-04" class="ColorScheme-Text" fill="#fff" d="m11.002 1036c-2.9547 0-5.3334 2.3786-5.3334 5.3333 0 2.9548 2.3787 5.3334 5.3334 5.3334s5.3334-2.3786 5.3334-5.3334c0-2.9547-2.3787-5.3333-5.3334-5.3333zm0 0.6666c2.5853 0 4.6667 2.0814 4.6667 4.6667 0 2.5854-2.0814 4.6668-4.6667 4.6668s-4.6667-2.0814-4.6667-4.6668c0-2.5853 2.0814-4.6667 4.6667-4.6667zm-2 2.6667v4.0001h1.3334v-2.0001-2h-1.3334zm1.3334 2 2.6667 2.0001v-4.0001l-2.6667 2z"/>
+  </g>
+  <g id="media-skip-forward" transform="matrix(1.5 0 0 1.5 377.03 -1146.5)">
+   <rect id="rect3003-7" fill-opacity=".0039216" width="14.667" opacity="0.01" y="1034" height="14.667" fill="#ed1515" x="3.6689"/>
+   <path id="rect3402-4" class="ColorScheme-Text" fill="#fff" d="m11.667 1039.4h1.3334v4.0002h-1.3334zm-2.6668 4.0002 2.6668-2.0001-2.6668-2.0001zm1.9998-7.4c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335zm0 0.6666c2.5854 0 4.6669 2.0815 4.6669 4.6669s-2.0814 4.6669-4.6669 4.6669c-2.5854 0-4.6669-2.0815-4.6669-4.6669s2.0814-4.6669 4.6669-4.6669z"/>
+  </g>
+  <g id="media-eject" transform="matrix(1.25 0 0 1.25 404.29 -886.17)">
+   <rect id="rect3003" fill-opacity=".0039216" width="17.6" opacity="0.01" y="1032.6" height="17.6" fill="#ed1515" x="1.7999"/>
+   <path id="path4148" class="ColorScheme-Text" fill-rule="evenodd" fill="#fff" d="m4.9999 1042.2h11.2l-5.6001-7.2001zm0 3.9203h11.2v1.6801h-11.2z"/>
+  </g>
+ </g>
+</svg>
